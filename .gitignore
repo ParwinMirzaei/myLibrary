@@ -1,0 +1,13 @@
+# Ignore common system files and directories
+.bash_profile
+.bashrc
+.vscode/
+.gitconfig
+.lesshst
+*.pdf
+*.docx
+*.mkv
+/Desktop/
+/AppData/
+/Documents/
+/Downloads/
